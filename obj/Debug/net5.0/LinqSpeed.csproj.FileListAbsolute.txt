@@ -1,0 +1,16 @@
+C:\Users\jsken\source\repos\LinqSpeed\bin\Debug\net5.0\LinqSpeed.exe
+C:\Users\jsken\source\repos\LinqSpeed\bin\Debug\net5.0\LinqSpeed.deps.json
+C:\Users\jsken\source\repos\LinqSpeed\bin\Debug\net5.0\LinqSpeed.runtimeconfig.json
+C:\Users\jsken\source\repos\LinqSpeed\bin\Debug\net5.0\LinqSpeed.runtimeconfig.dev.json
+C:\Users\jsken\source\repos\LinqSpeed\bin\Debug\net5.0\LinqSpeed.dll
+C:\Users\jsken\source\repos\LinqSpeed\bin\Debug\net5.0\ref\LinqSpeed.dll
+C:\Users\jsken\source\repos\LinqSpeed\bin\Debug\net5.0\LinqSpeed.pdb
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\LinqSpeed.csprojAssemblyReference.cache
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\LinqSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\LinqSpeed.AssemblyInfoInputs.cache
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\LinqSpeed.AssemblyInfo.cs
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\LinqSpeed.csproj.CoreCompileInputs.cache
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\LinqSpeed.dll
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\ref\LinqSpeed.dll
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\LinqSpeed.pdb
+C:\Users\jsken\source\repos\LinqSpeed\obj\Debug\net5.0\LinqSpeed.genruntimeconfig.cache
